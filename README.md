@@ -10,10 +10,19 @@
 
 ## Results 
   - How is the district summary affected?
-		
-    The district summary was not affected enough to change the math, readying, or overall passing percentages.
+
+	The district summary was not affected enough to change the math, reading, or overall passing percentages, when rounded to a whole number.
     
-- How is the school summary affected?
+  - How is the school summary affected?
+
+	When adjusting the scores and percentages by nullifying the 9th grade information from Thomas High School, the school's data was slightly affected. The following images will demonstrate the differences. 
+
+Original School Summary
+![Original_School_Summary.png](Resources/Original_School_Summary.png)
+
+Updated School Summary
+![Updated_School_Summary.png](Resources/Updated_School_Summary.png)
+
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other 	schools?
 - How does replacing the ninth-grade scores affect the following:
 	- Math and reading scores by grade
